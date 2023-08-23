@@ -127,7 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CSCI41.Lab1.cpp" />
+    <ClCompile Include="CSCI41.Lab1Exercise1.cpp" />
+    <ClCompile Include="CSCI41Lab1Exercise2.cpp" />
+    <ClCompile Include="CSCI41Lab1Exercise3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

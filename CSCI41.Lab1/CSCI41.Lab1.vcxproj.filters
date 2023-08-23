@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CSCI41.Lab1.cpp">
+    <ClCompile Include="CSCI41.Lab1Exercise1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSCI41Lab1Exercise2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CSCI41Lab1Exercise3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
